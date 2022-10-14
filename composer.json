@@ -14,7 +14,7 @@
     "support": {
         "docs": "https://firebase-php.readthedocs.io",
         "issues": "https://github.com/kreait/firebase-php/issues",
-        "source": "https://github.com/kreait/firebase-php"
+        "source": "https://github.com/davidsandez/firebase-php"
     },
     "funding": [
         {
