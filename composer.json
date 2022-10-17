@@ -5,12 +5,7 @@
     "type": "library",
     "homepage": "https://github.com/davidsandez/firebase-php",
     "license": "MIT",
-    "authors": [
-        {
-            "name": "Jérôme Gamez",
-            "homepage": "https://github.com/jeromegamez"
-        }
-    ],
+    
     "require": {
         "php": "^7.4|^8.0",
         "ext-ctype": "*",
