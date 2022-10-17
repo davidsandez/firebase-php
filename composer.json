@@ -1,9 +1,9 @@
 {
-    "name": "kreait/firebase-php",
+    "name": "davidsandez/firebase-php",
     "description": "Firebase Admin SDK",
     "keywords": ["firebase", "google", "sdk", "api", "database"],
     "type": "library",
-    "homepage": "https://github.com/kreait/firebase-php",
+    "homepage": "https://github.com/davidsandez/firebase-php",
     "license": "MIT",
     "authors": [
         {
